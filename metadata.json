@@ -1,0 +1,8 @@
+{
+  "name": "Dreamy 3D Xmas Tree",
+  "description": "An interactive 3D musical Christmas tree controlled by AI hand gestures and audio visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
